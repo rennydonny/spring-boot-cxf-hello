@@ -1,4 +1,4 @@
 cxf:
   jaxrs:
     component-scan: true
-    classes-scan-packages: com.home.demo.spring.boot.cxf.hello
+    classes-scan-packages: org.apache.cxf.jaxrs.swagger
